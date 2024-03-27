@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=DEW\THANHSON;Initial Catalog=Hshop2023;Integrated Security=True;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data -f
